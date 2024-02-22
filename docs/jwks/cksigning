@@ -1,0 +1,14 @@
+{
+"keys": [
+{
+"alg": "RS512",
+"e": "AQAB",
+"kid": "jwt-remote-key",
+"kty": "RSA",
+"n": "yMOY2UKFdAEnsEe3eeGaRfRtez5z8TXU3cX8_YQBrR7xAPEhK1Q2g1RxP8ZkkaL2mRw1FAK9nzCsLweyUrjCvo_6iIJfFWHJ_iomJFc2apS9zgux1aFB0FbR-dMkY80iI7YL-SyEAxZDaJTuM2hnmNAnSnoupI8nDsMp4ADjC21sgjVfJdhIHBjwkAOy3Vo5kX46k8TBEltxtKW8kQIo5xcrmIkj0Yq6qR0n1rqTIFUK1vBQmQnpjHpRc48AuvIfOQALRNMnBBMs6iNg6x5Pwg5Eq4LAuPQXSXQOuNk-h2bPM2Y2Zfy-FdmteIcMuQuq7C_JMigLyio2OdPTnqZ72Q",
+"use": "sig",
+"version": "current",
+"name": "jwt-remote-key"
+}
+]
+}
